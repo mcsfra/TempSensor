@@ -1,0 +1,13 @@
+_main: CODE, 346 0 72
+_initHardware: CODE, 418 0 62
+_sendTelegram: CODE, 268 0 78
+_high_isr: CODE, 8 0 260
+_probeSensors: CODE, 480 0 38
+_initRS485: CODE, 546 0 22
+__initialization: CODE, 568 0 12
+_sendByte: CODE, 596 0 2
+_initTimer: CODE, 586 0 6
+_initI2C: CODE, 518 0 28
+_readSensor: CODE, 592 0 4
+_low_isr: CODE, 24 0 138
+Total: 722
